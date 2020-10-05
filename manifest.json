@@ -1,8 +1,8 @@
 {
-  "name": "HYDRAPP: PWA",
+  "name": "HYDRAPP",
   "short_name": "HYDRAPP",
-  "theme_color": "#A0E5E3",
-  "background_color": "#FEF9F6",
+  "theme_color": "#FFFCFA",
+  "background_color": "#FFFCFA",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/HYDRAPP/",
